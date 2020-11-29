@@ -1,0 +1,11 @@
+Country              |Number of Immigrants|Percentage of Total Immigrants in the World|Immigrants as Percentage of National Population|
+United States        |45,785,090          |19.8                                       |14.3                                           |
+Russia               |11,048,064          |4.8                                        |7.7                                            |
+Germany              |9,845,244           |4.3                                        |11.9                                           |
+Saudi Arabia         |9,060,433           |3.9                                        |31.4                                           |
+United Arab Emirates |7,826,981           |3.4                                        |83.7                                           |
+United Kingdom       |7,824,131           |3.4                                        |12.4                                           |
+France               |7,439,086           |3.2                                        |11.6                                           |
+Canada               |7,284,069           |3.1                                        |20.7                                           |
+Australia            |6,468,640           |2.8                                        |27.7                                           |
+Spain                |6,466,605           |2.8                                        |13.8                                           |
